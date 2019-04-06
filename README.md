@@ -10,4 +10,4 @@ on larger scale using APIs will the best idea.
 
 **3. Pythonproblem:** Scraping twitter using twitter API through tweepy and beautiful soup.
 
-I think the best way to scrape twitter is using twint, you can read more abou it [here](https://github.com/twintproject/twint)
+I think the best way to scrape twitter is using twint, you can read more abou it [here](https://github.com/twintproject/twint).
